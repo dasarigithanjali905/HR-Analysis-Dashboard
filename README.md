@@ -99,6 +99,8 @@ The dashboard can be used to explore:
 * Employee salary growth and hikes
 
 
+## 📸 Dashboard Preview
 
+![HR Analytics Dashboard](HRdashboard.png)
 
 
