@@ -101,6 +101,6 @@ The dashboard can be used to explore:
 
 ## 📸 Dashboard Preview
 
-![HR dashboard](HRdashboard.png)
+![HR-Analysis-Dashboard](HRdashboard.png)
 
 
